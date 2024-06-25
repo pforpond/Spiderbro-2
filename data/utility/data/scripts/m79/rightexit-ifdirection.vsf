@@ -1,0 +1,5 @@
+"collision off"
+"speaker mainplayer"
+"say nice try shesez xx"
+"move mainplayer y 30"
+"collision on"

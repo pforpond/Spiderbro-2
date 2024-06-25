@@ -1,0 +1,13 @@
+"collision off"
+"music file nothing"
+"fade out"
+"sfx door
+"loading"
+"halt 1"
+"map 34"
+"warp mainplayer x 118"
+"warp mainplayer y 72"
+"direction mainplayer 2"
+"fade in"
+"move mainplayer y 80"
+"collision on"

@@ -1,0 +1,6 @@
+"ifcheckpoint 2"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"say Whoops! The reflect drop was dispensed onto the floor!"
+"say I can see myself in the puddle!"

@@ -1,0 +1,6 @@
+"direction mainplayer 2"
+"fade in"
+"ifpocket checkpoint4"
+"sfx error"
+"speaker mainplayer"
+"say The PC says that chisel.h is locked!"

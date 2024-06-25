@@ -1,0 +1,7 @@
+"ifpocket checkpoint5"
+"speaker mainplayer"
+"say It is a large industrial fan!"
+"say It has seized up and looks to be missing a cable!"
+"say I will replace the cable!"
+"checkpoint 3 off"
+"silentgive checkpoint5"

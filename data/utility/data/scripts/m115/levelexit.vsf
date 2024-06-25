@@ -1,0 +1,5 @@
+"ifcheckpoint 1"
+"speaker mainplayer"
+"say This is your last chance to save the game! There are no save apps beyond this point!"
+"move mainplayer y 75"
+"checkpoint 1 on"

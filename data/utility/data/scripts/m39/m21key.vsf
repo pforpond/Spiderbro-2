@@ -1,0 +1,5 @@
+"speaker mainplayer"
+"say It's a blue key! I'll take it!"
+"silentgive bluekey"
+"sfx pickup"
+"map 40"

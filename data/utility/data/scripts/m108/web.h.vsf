@@ -1,0 +1,7 @@
+"ifpocket checkpoint1"
+"fade in"
+"direction mainplayer 2"
+"speaker mainplayer"
+"say The PC gave me more web!"
+"silentgive checkpoint1"
+"sfx pickup"

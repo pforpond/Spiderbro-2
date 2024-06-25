@@ -1,0 +1,5 @@
+"collision off"
+"speaker mainplayer"
+"say There is a barrier blocking the way at the other side of this exit!"
+"move mainplayer y 28"
+"collision on"

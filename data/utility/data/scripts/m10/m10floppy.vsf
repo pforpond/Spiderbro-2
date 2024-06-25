@@ -1,0 +1,5 @@
+"speaker mainplayer"
+"say It is a floppy disk for BUG OPERATING SYSTEM! I'll take it!"
+"sfx pickup"
+"silentgive floppy"
+"map 11"

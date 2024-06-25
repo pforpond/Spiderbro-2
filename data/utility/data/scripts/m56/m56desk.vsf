@@ -1,0 +1,7 @@
+"speaker mainplayer"
+"say This table has a bottle of lubricant on it!"
+"say I'll take it!"
+"silentgive checkpoint2"
+"carryvalues"
+"map 57"
+"sfx pickup"

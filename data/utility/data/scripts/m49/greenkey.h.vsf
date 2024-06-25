@@ -1,0 +1,7 @@
+"ifpocket greenkey"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"say The PC gave me a green key!"
+"silentgive greenkey"
+"sfx pickup"

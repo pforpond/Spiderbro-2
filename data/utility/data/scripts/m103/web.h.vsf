@@ -1,0 +1,7 @@
+"map 104"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"say the pc looks to have broken! at least it gave me the web!"
+"silentgive checkpoint6"
+"sfx pickup"

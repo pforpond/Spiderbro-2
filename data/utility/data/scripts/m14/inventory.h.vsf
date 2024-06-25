@@ -1,0 +1,5 @@
+"direction mainplayer 2"
+"fade in"
+"ifpocket hammer"
+"speaker mainplayer"
+"say I have a floppy disk!

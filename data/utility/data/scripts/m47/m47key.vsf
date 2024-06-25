@@ -1,0 +1,4 @@
+"speaker mainplayer"
+"say It's a pink key! I'll take it!"
+"silentgive pinkkey"
+"map 48"

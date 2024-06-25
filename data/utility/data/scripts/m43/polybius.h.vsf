@@ -1,0 +1,6 @@
+"direction mainplayer 2"
+"fade in"
+"ifpocket bluekey"
+"sfx error"
+"speaker mainplayer"
+"say This PC says polybius.h is locked!"

@@ -1,0 +1,4 @@
+"ifpocket pinkkey"
+"speaker mainplayer"
+"say This door is locked! I need a pink key first!"
+"move mainplayer y 76"

@@ -1,0 +1,6 @@
+"speaker mainplayer"
+"say It is a large industrial fan!"
+"say It has seized up!"
+"say I will lubricate it!"
+"checkpoint 6 off"
+"silentgive checkpoint7"

@@ -1,0 +1,8 @@
+"ifcheckpoint 5"
+"warp object m118pc x 500"
+"warp object m118pc y 500"
+"warp object m56box x 500"
+"warp object m56box y 500"
+"fade in"
+"speaker mainplayer"
+"say The fans are powered on!"

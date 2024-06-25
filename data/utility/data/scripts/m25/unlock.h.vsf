@@ -1,0 +1,6 @@
+"direction mainplayer 2"
+"fade in"
+"ifpocket checkpoint4"
+"speaker mainplayer"
+"say the PC has switched off the app lock!"
+"silentgive checkpoint4"

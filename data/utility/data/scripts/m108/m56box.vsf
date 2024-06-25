@@ -1,0 +1,5 @@
+"ifpocket checkpoint3"
+"speaker mainplayer"
+"say there is a catapult in here! I'll take it!"
+"silentgive checkpoint3"
+"sfx pickup"

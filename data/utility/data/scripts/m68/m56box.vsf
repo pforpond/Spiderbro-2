@@ -1,0 +1,7 @@
+"speaker mainplayer"
+"say It is a box full of plastic bottles!"
+"ifpocket checkpoint1"
+"say I'll take one!"
+"silentgive checkpoint1"
+"carryvalues"
+"map 68'

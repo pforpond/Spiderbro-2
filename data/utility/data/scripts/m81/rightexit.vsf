@@ -1,0 +1,6 @@
+"ifdirection 3"
+"collision off"
+"speaker mainplayer"
+"say I should probably move on from here!"
+"move mainplayer y 30"
+"collision on"

@@ -1,0 +1,6 @@
+"ifpocket bluekey"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"say The left fan is ready to start!"
+"say The right fan is ready to start!"

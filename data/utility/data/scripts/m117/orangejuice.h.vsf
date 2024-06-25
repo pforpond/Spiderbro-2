@@ -1,0 +1,5 @@
+"ifcheckpoint 2"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"say Whoops! The orange juice was dispensed onto the floor!"

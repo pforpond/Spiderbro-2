@@ -1,0 +1,5 @@
+"ifpocket checkpoint2"
+"speaker mainplayer"
+"say I will put some in my plastic bottle!"
+"silentgive checkpoint2"
+"sfx pickup"

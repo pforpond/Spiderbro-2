@@ -1,0 +1,6 @@
+"ifpocket hammer"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"silentgive hammer"
+"say The PC has given me an emergency hammer!"

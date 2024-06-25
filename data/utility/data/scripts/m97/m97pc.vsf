@@ -1,0 +1,6 @@
+"speaker mainplayer"
+"say This PC has my copy of Bug Operating System in it!"
+"say I'll take it!"
+"silentgive floppy"
+"map 98"
+"sfx pickup"

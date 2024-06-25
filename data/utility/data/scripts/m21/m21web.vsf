@@ -1,0 +1,5 @@
+"speaker mainplayer"
+"say I have found more web!"
+"silentgive checkpoint2"
+"map 22"
+"sfx pickup"

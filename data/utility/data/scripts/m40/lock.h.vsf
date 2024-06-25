@@ -1,0 +1,6 @@
+"direction mainplayer 2"
+"fade in"
+"ifpocket checkpoint2"
+"sfx error"
+"speaker mainplayer"
+"say the PC says the app lock is already switched on!"

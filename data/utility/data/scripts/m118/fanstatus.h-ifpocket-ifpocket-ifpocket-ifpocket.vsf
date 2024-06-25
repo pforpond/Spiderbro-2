@@ -1,0 +1,7 @@
+"ifpocket checkpoint6"
+"ifpocket bluekey"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"say The left fan is not responding!"
+"say The right fan is ready to start!"

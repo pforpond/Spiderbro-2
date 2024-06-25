@@ -1,0 +1,6 @@
+"ifpocket checkpoint2"
+"direction mainplayer 2"
+"fade in"
+"sfx error"
+"speaker mainplayer"
+"say The PC says crate 1 is already out!"

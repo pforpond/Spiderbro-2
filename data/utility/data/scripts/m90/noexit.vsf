@@ -1,0 +1,4 @@
+"ifpocket purplekey"
+"speaker mainplayer"
+"say This door requires a purple key!"
+"move mainplayer y 40"

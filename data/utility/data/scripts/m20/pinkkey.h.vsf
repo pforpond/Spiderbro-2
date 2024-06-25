@@ -1,0 +1,7 @@
+"ifpocket pinkkey"
+"direction mainplayer 2"
+"fade in"
+"speaker mainplayer"
+"silentgive pinkkey"
+"say The PC has given me a pink key!"
+"sfx pickup"

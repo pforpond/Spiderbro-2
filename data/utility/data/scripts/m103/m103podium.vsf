@@ -1,0 +1,8 @@
+"ifpocket checkpoint2"
+"speaker mainplayer"
+"say it is a podium of some sort with a large glass jar on it!"
+"say I'll take the jar!"
+"warp object flaskempty x 200"
+"warp object flaskempty y 200"
+"silentgive checkpoint2"
+"sfx pickup"

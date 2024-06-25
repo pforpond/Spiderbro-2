@@ -1,0 +1,5 @@
+"speaker mainplayer"
+"say This key should be useful!"
+"silentgive purplekey"
+"sfx pickup"
+"map 6"

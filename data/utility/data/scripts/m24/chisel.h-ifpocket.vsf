@@ -1,0 +1,5 @@
+"ifpocket checkpoint5"
+"speaker mainplayer"
+"say The PC has given me a chisel!"
+"silentgive checkpoint5"
+"sfx pickup"
